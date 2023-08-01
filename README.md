@@ -18,5 +18,5 @@ $ python -m jupyter notebook main.ipynb
 ```
 
 **Sample Outputs**
-![Ouput 1](./imgs/output1.png)
-![Output 2](./imgs/output2.png)
+![Ouput 1](./imgs/output1.png?raw=true)
+![Output 2](./imgs/output2.png?raw=true)
