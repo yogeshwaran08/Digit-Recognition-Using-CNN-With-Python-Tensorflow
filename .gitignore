@@ -1,0 +1,4 @@
+./main.ipynb
+.vscode
+input/
+./trainer.py
