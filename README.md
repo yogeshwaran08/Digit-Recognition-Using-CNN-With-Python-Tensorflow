@@ -18,5 +18,6 @@ $ python -m jupyter notebook main.ipynb
 ```
 
 **Sample Outputs**
-![Ouput 1](./imgs/output1.png?raw=true)
-![Output 2](./imgs/output2.png?raw=true)
+![output1](https://github.com/yogeshwaran08/Digit-Recognition-Using-CNN-With-Python-Tensorflow/assets/85753695/3d123647-ec1c-4979-99a5-d7fa5d4be829)
+
+![output2](https://github.com/yogeshwaran08/Digit-Recognition-Using-CNN-With-Python-Tensorflow/assets/85753695/bb9afcc3-0098-49b2-9e5f-5b9fd2670ef7)
